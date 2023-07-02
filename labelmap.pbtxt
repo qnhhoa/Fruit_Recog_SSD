@@ -1,0 +1,129 @@
+item {
+  id: 1
+  name: 'AppleFresh'
+}
+
+item {
+  id: 2
+  name: 'AppleRotten'
+}
+
+item {
+  id: 3
+  name: 'BananaRotten'
+}
+
+item {
+  id: 4
+  name: 'BananaUnripe'
+}
+
+item {
+  id: 5
+  name: 'DragonFruitFresh'
+}
+
+item {
+  id: 6
+  name: 'DragonFruitRotten'
+}
+
+item {
+  id: 7
+  name: 'GuavaFresh'
+}
+
+item {
+  id: 8
+  name: 'GuavaRotten'
+}
+
+item {
+  id: 9
+  name: 'MangoFresh'
+}
+
+item {
+  id: 10
+  name: 'MangoRotten'
+}
+
+item {
+  id: 11
+  name: 'MangoUnripe'
+}
+
+item {
+  id: 12
+  name: 'OrangesFresh'
+}
+
+item {
+  id: 13
+  name: 'OrangesRotten'
+}
+
+item {
+  id: 14
+  name: 'OrangesUnripe'
+}
+
+item {
+  id: 15
+  name: 'PapayaFresh'
+}
+
+item {
+  id: 16
+  name: 'PapayaRotten'
+}
+
+item {
+  id: 17
+  name: 'PapayaUnripe'
+}
+
+item {
+  id: 18
+  name: 'PomegranateFresh'
+}
+
+item {
+  id: 19
+  name: 'PomegranateRotten'
+}
+
+item {
+  id: 20
+  name: 'StrawberryFresh'
+}
+
+item {
+  id: 21
+  name: 'StrawberryUnripe'
+}
+
+item {
+  id: 22
+  name: 'TomatoFresh'
+}
+
+item {
+  id: 23
+  name: 'TomatoRotten'
+}
+
+item {
+  id: 24
+  name: 'TomatoUnripe'
+}
+
+item {
+  id: 25
+  name: 'BananaFresh'
+}
+
+item {
+  id: 26
+  name: 'StrawberryRotten'
+}

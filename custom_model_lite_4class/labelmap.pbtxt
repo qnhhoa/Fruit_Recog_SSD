@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'BananaFresh'
+}
+
+item {
+  id: 2
+  name: 'SnakeFruitFresh'
+}
+
+item {
+  id: 3
+  name: 'DragonFruitFresh'
+}
+
+item {
+  id: 4
+  name: 'PineAppleFresh'
+}
+
